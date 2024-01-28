@@ -1,0 +1,2 @@
+# Amigo
+Your personal assistant
